@@ -1,0 +1,3 @@
+[submodule "AudioUnitSDK"]
+	path = AudioUnitSDK
+	url = ../AudioUnitSDK.git
